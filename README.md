@@ -1,4 +1,17 @@
-## Hi there 👋
+## Hi there 👋 I'm SHIKADA HIROTO
+
+### /SHICA
+is my reseach topic.
+
+### /mechatoro 
+is code contolling expandable two wheels rober!!!
+
+### /mechatoro3app
+is code of /mechatoro's rober contollor (iOS)
+
+### /precap2022_22K13_Inspection
+is scicret code of inspection machine. (Web app)
+
 
 <!--
 **bambi01-95/bambi01-95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
