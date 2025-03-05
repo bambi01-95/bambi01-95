@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm SHIKADA HIROTO
 
-### /SHICA　(C/C++)
+### [/SHICA](https://github.com/bambi01-95/SHICA)　(C/C++)
 is my reseach topic.
 
 私のリサーチ内容です！
