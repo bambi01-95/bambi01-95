@@ -10,23 +10,16 @@ SHICAというマルチエージェントシステム向けの言語です。
 開発中なので、使用しないでくださいd-.-b
 
 ### [/mechatoro](https://github.com/bambi01-95/mechatoro) (python,C++)
+is the code that controls the expandable 2-wheeled rover!!!
 
-<div style="display: flex; align-items: center;">
-  <div style="flex: 1;">
-    <p>
-    is the code that controls the expandable 2-wheeled rover!!!<br>
+開閉2輪ローバーの制御コードです。
 
-    開閉2輪ローバーの制御コードです。
+pygameやDjangoを使用して、webやwindowを使用してモニターや制御を行えます。
 
-    pygameやDjangoを使用して、webやwindowを使用してモニターや制御を行えます。
-    </p>
-  </div>
-  <div style="flex: 1; text-align: center;">
-    <img src="mechatoroOpen.jpeg" width="200"><br>
-    <img src="mechatoroClose.jpeg" width="200">
-  </div>
-</div>
-
+<p align="center">
+<img src="mechatoroClose.jpeg" width="300" height="200">
+<img src="mechatoroOpen.jpeg" width="300" height="200">
+</p>
 
 
 ### [/mechatoro3app](https://github.com/bambi01-95/mechatro3app) (Swift)
