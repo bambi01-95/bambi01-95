@@ -17,17 +17,26 @@ is the code that controls the expandable 2-wheeled rover!!!
 pygameやDjangoを使用して、webやwindowを使用してモニターや制御を行えます。
 
 <p align="center">
-<img src="mechatoroClose.jpeg" width="300" height="200">
-<img src="mechatoroOpen.jpeg" width="300" height="200">
+<img src="mechatoroClose.jpeg" width="200">
+<img src="mechatoroOpen.jpeg" width="200">
 </p>
 
 
-### [/mechatoro3app](https://github.com/bambi01-95/mechatro3app) (Swift)
+### <img src="tatalogo.png" width="20"> [/mechatoro3app](https://github.com/bambi01-95/mechatro3app) (Swift)
 X is the code for mechatoro's rober controller (iOS)
 
 開閉2輪ローバーのスマートフォンコントローラーです。
 
 スティック、ボタン、ジャイロの3つの操作方法と./mechatoroのモードによっては、VR形式の映像も楽しめます！
+
+<p align="center">
+<img src="tatahome.png" width="200">
+<img src="tata1.png" width="200">
+<img src="tata2.png" width="200">
+<img src="tata3.png" width="200">
+</p>
+
+
 
 ### [/precap2022_22K13_Inspection](https://github.com/bambi01-95/precap2022_22K13_Inspection) (Python[Tensor flow, Django, Open CV], SQLite, JS, HTML/CSS)
 is the code for the inspection machine (Web app). but not exist lol. It's secret.
