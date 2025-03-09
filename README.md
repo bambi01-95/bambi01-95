@@ -54,5 +54,13 @@ is the code for the inspection machine (Web app). but not exist lol. It's secret
 <img src="precapUI2.png" width="300">
 </p>
 
-### /drone
-is now private!?
+### /drone (Unity: C# and C/C++)
+is now .... 
+
+### I Want to Develop: 
+
+- SNS for corner-stone and cap-stone project. 
+
+- VR implementation of TENJI block (integrated with a smart white cane) 
+
+- holographic display and its app
