@@ -57,7 +57,7 @@ is the code for the inspection machine (Web app). but not exist lol. It's secret
 <img src="precapUI2.png" width="300">
 </p>
 
-# droneshow_sw
+# <img src="dronelogo.jpg" width="60"> droneshow_sw
 ### (Unity: C# & Python)
 is now .... 
 ## droneshow_cont(C/C++)
