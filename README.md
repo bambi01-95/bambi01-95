@@ -1,8 +1,8 @@
 ## Hi there 👋 I'm SHIKADA HIROTO
 
-<img src="shicalogo.png" width="60">
 
-### [/SHICA](https://github.com/bambi01-95/SHICA)　(C/C++)
+
+# [<img src="shicalogo.png" width="60">](https://github.com/bambi01-95/SHICA)SHICA (C/C++)
 is my reseach topic.
 
 私のリサーチ内容です！
