@@ -11,8 +11,11 @@ SHICAというマルチエージェントシステム向けの言語です。
 
 ### [/mechatoro](https://github.com/bambi01-95/mechatoro) (python,C++)
 
+<p align="center">
 <img src="mechatoroClose.jpeg" width="300" height="200">
 <img src="mechatoroOpen.jpeg" width="300" height="200">
+</p>
+
 is the code that controls the expandable 2-wheeled rover!!!
 
 開閉2輪ローバーの制御コードです。
