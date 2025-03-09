@@ -1,5 +1,7 @@
 ## Hi there 👋 I'm SHIKADA HIROTO
 
+<img src="shicalogo.png" width="60">
+
 ### [/SHICA](https://github.com/bambi01-95/SHICA)　(C/C++)
 is my reseach topic.
 
@@ -9,7 +11,7 @@ SHICAというマルチエージェントシステム向けの言語です。
 
 開発中なので、使用しないでくださいd-.-b
 
-<img src="shicalogo.png" width="60"> 
+
 
 ### [/mechatoro](https://github.com/bambi01-95/mechatoro) (python,C++)
 is the code that controls the expandable 2-wheeled rover!!!
