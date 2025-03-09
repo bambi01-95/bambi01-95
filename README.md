@@ -2,7 +2,7 @@
 
 
 
-# [<img src="shicalogo.png" width="60">](https://github.com/bambi01-95/SHICA)SHICA (C/C++)
+# [<img src="shicalogo.png" width="60">](https://github.com/bambi01-95/SHICA)   SHICA (C/C++)
 is my reseach topic.
 
 私のリサーチ内容です！
