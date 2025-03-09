@@ -57,3 +57,14 @@ is the code for the inspection machine (Web app). but not exist lol. It's secret
 ### /drone
 is now private!?
 
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1;">
+    <p>
+      ここに文章を書きます。<br>
+      文章は左側に表示されます。
+    </p>
+  </div>
+  <div style="flex: 1; text-align: center;">
+    <img src="shicalogo.png" width="100"><br>
+  </div>
+</div>
