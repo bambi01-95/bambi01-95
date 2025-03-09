@@ -2,7 +2,8 @@
 
 
 
-# [<img src="shicalogo.png" width="60">](https://github.com/bambi01-95/SHICA)   SHICA (C/C++)
+# [<img src="shicalogo.png" width="60">](https://github.com/bambi01-95/SHICA)   SHICA 
+### (C/C++)
 is my reseach topic.
 
 私のリサーチ内容です！
@@ -13,10 +14,8 @@ SHICAというマルチエージェントシステム向けの言語です。
 
 
 
-
-
-
-# [<img src="tatalogo.png" width="60">](https://github.com/bambi01-95/mechatro3app) mechatoro3app(Swift)
+# [<img src="tatalogo.png" width="60">](https://github.com/bambi01-95/mechatro3app) mechatoro3app
+### (Swift)
 X is the code for mechatoro's rober controller (iOS)
 
 開閉2輪ローバーのスマートフォンコントローラーです。
@@ -30,7 +29,8 @@ X is the code for mechatoro's rober controller (iOS)
 <img src="tata3.png" width="200">
 </p>
 
-## [mechatoro](https://github.com/bambi01-95/mechatoro)(python,C++)
+## [mechatoro](https://github.com/bambi01-95/mechatoro)
+### (python,C++)
 is the code that controls the expandable 2-wheeled rover!!!
 
 開閉2輪ローバーの制御コードです。
@@ -57,8 +57,12 @@ is the code for the inspection machine (Web app). but not exist lol. It's secret
 <img src="precapUI2.png" width="300">
 </p>
 
-### /drone (Unity: C# and C/C++)
+# droneshow_sw
+### (Unity: C# & Python)
 is now .... 
+## droneshow_cont(C/C++)
+is now ....
+
 
 ### I Want to Develop: 
 
