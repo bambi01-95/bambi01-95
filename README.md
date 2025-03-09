@@ -65,6 +65,7 @@ is now private!?
     </p>
   </div>
   <div style="flex: 1; text-align: center;">
-    <img src="shicalogo.png" width="100"><br>
+    <img src="shicalogo.png" width="200"><br>
   </div>
 </div>
+
