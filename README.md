@@ -22,13 +22,13 @@ pygameやDjangoを使用して、webやwindowを使用してモニターや制�
 </p>
 
 
-### <img src="tatalogo.png" width="40"> [/mechatoro3app](https://github.com/bambi01-95/mechatro3app) (Swift)
+### [/mechatoro3app](https://github.com/bambi01-95/mechatro3app) (Swift)
 X is the code for mechatoro's rober controller (iOS)
 
 開閉2輪ローバーのスマートフォンコントローラーです。
 
 スティック、ボタン、ジャイロの3つの操作方法と./mechatoroのモードによっては、VR形式の映像も楽しめます！
-
+<img src="tatalogo.png" width="40"> 
 <p align="center">
 <img src="tatahome.png" width="200">
 <img src="tata1.png" width="200">
@@ -43,6 +43,7 @@ is the code for the inspection machine (Web app). but not exist lol. It's secret
 企業と共に開発した検品処理装置とそのウェブアプリケーションの開発を行いました！
 [プロジェクト記事](https://www2.deloitte.com/jp/ja/blog/group/2022/thesmartfactory-kyoto-news-01-capstone-project.html)
 
+<img src="precaplogo.png" width="40"> 
 <p align="center">
 <img src="precapUI1.png" width="300">
 <img src="precapUI2.png" width="300">
