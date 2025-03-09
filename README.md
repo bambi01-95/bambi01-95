@@ -57,6 +57,7 @@ is the code for the inspection machine (Web app). but not exist lol. It's secret
 ### /drone
 is now private!?
 
+| 文章 | 画像 |
 |------|------|
-| ここに文章を書きます。<br>文章は左側に表示されます。 | ![image1](image1.png) <br> ![image2](image2.png) |
+| ここに文章を書きます。<br>文章は左側に表示されます。 | <img src="image1.png" width="200"><br><img src="image2.png" width="200"> |
 
