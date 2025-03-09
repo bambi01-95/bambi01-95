@@ -10,9 +10,9 @@ SHICAというマルチエージェントシステム向けの言語です。
 開発中なので、使用しないでくださいd-.-b
 
 ### [/mechatoro](https://github.com/bambi01-95/mechatoro) (python,C++)
-![open rober](mechatoroClose.jpeg)
-![close rober](mechatoroOpen.jpeg)
 
+<img src="mechatoroClose.jpeg" width="300" height="200">
+<img src="mechatoroOpen.jpeg" width="300" height="200">
 is the code that controls the expandable 2-wheeled rover!!!
 
 開閉2輪ローバーの制御コードです。
