@@ -9,6 +9,8 @@ SHICAというマルチエージェントシステム向けの言語です。
 
 開発中なので、使用しないでくださいd-.-b
 
+<img src="shicalogo.png" width="60"> 
+
 ### [/mechatoro](https://github.com/bambi01-95/mechatoro) (python,C++)
 is the code that controls the expandable 2-wheeled rover!!!
 
@@ -41,7 +43,9 @@ X is the code for mechatoro's rober controller (iOS)
 
 ### [/precap2022_22K13_Inspection](https://github.com/bambi01-95/precap2022_22K13_Inspection) (Python[Tensor flow, Django, Open CV], SQLite, JS, HTML/CSS)
 is the code for the inspection machine (Web app). but not exist lol. It's secret.
+
 企業と共に開発した検品処理装置とそのウェブアプリケーションの開発を行いました！
+
 [プロジェクト記事](https://www2.deloitte.com/jp/ja/blog/group/2022/thesmartfactory-kyoto-news-01-capstone-project.html)
 
 <img src="precaplogo.png" width="60"> 
