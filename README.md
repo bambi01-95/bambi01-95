@@ -47,7 +47,7 @@ pygameやDjangoを使用して、webやwindowを使用してモニターや制�
 ### (Python[Tensor flow, Django, Open CV], SQLite, JS, HTML/CSS)
 is the code for the inspection machine (Web app). but not exist lol. It's secret.
 
-企業と共に開発した検品処理装置とそのウェブアプリケーションの開発を行いました！
+企業と共同で検品処理装置とそのウェブアプリケーションの開発を行いました！
 
 [プロジェクト記事](https://www2.deloitte.com/jp/ja/blog/group/2022/thesmartfactory-kyoto-news-01-capstone-project.html)
 
