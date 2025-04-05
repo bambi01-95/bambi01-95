@@ -57,6 +57,12 @@ is the code for the inspection machine (Web app). but not exist lol. It's secret
 <img src="precapUI2.png" width="300">
 </p>
 
+# [<img src="dearlogo.jpeg" width="60">](https://github.com/bambi01-95/Dear)  Dear
+
+is now in porgress... Please wait 2 month!!!
+
+it makes your uni. life more fun!!!
+
 # <img src="dronelogo1.jpg" width="60"> droneshow_sw
 ### (Unity: C# & Python)
 is now .... 
