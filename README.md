@@ -12,6 +12,32 @@ SHICAというマルチエージェントシステム向けの言語です。
 
 開発中なので、使用しないでくださいd-.-b
 
+```shica
+event touch = trigReadGPIO()
+state default{ 
+    entry(){
+        print("Now I am default")
+    }
+    touch(int num) {
+        print("Ouch, don't prod me!");
+        state upset;
+    }
+}
+
+state upset { // object has been clicked at least once
+    entry() {
+        print("Now I am upset.");
+        init timer5Sec = timerSec(5);
+    }
+    touch(int num) {
+        print("Really, stop clicking me, it hurts!");
+        timer5Sec.reset(); // reset countdown
+    }
+    timer5Sec(int s) {
+        state default;
+    }
+}
+```
 
 
 # [<img src="tatalogo.png" width="60">](https://github.com/bambi01-95/mechatro3app) mechatoro3app
