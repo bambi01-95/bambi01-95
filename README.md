@@ -63,6 +63,12 @@ is now in porgress... Please wait 2 month!!!
 
 it makes your uni. life more fun!!!
 
+Below is the design for the planned 'Home page'.
+
+<p align="center">
+<img src="homepage-design.png" width="300">
+</p>
+
 # <img src="dronelogo1.jpg" width="60"> droneshow_sw
 ### (Unity: C# & Python)
 is now .... 
