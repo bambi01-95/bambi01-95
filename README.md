@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm SHIKADA HIROTO
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bambi01-95&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bambi01-95)](https://github.com/anuraghazra/github-readme-stats)
 
 
 # [<img src="shicalogo.png" width="60">](https://github.com/bambi01-95/SHICA)   SHICA 
