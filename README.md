@@ -1,16 +1,20 @@
+以下が、あなたの内容を整理・添削した `README.md` の完成形です。
+
+---
+
+````markdown
 ## Hi there 👋 I'm SHIKADA HIROTO
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bambi01-95)](https://github.com/anuraghazra/github-readme-stats)
 
-# [<img src="shicalogo.png" width="60">](https://github.com/bambi01-95/SHICA)   SHICA 
+---
+
+# [<img src="shicalogo.png" width="60">](https://github.com/bambi01-95/SHICA) SHICA 
 ### (C/C++)
-is my reseach topic.
 
-私のリサーチ内容です！
+SHICA is my research project — a domain-specific language designed for multi-agent systems.
 
-SHICAというマルチエージェントシステム向けの言語です。
-
-開発中なので、使用しないでくださいd-.-b
+> 🚧 This language is under development. Please don’t use it yet 🥲
 
 ```shica
 event touch = trigReadGPIO()
@@ -24,29 +28,32 @@ state default{
     }
 }
 
-state upset { // object has been clicked at least once
+state upset {
     entry() {
         print("Now I am upset.");
         init timer5Sec = timerSec(5);
     }
     touch(int num) {
         print("Really, stop clicking me, it hurts!");
-        timer5Sec.reset(); // reset countdown
+        timer5Sec.reset();
     }
     timer5Sec(int s) {
         state default;
     }
 }
-```
+````
 
+---
 
-# [<img src="tatalogo.png" width="60">](https://github.com/bambi01-95/mechatro3app) mechatoro3app
+# [<img src="tatalogo.png" width="60">](https://github.com/bambi01-95/mechatoro3app) Mechatoro3App
+
 ### (Swift)
-X is the code for mechatoro's rober controller (iOS)
 
-開閉2輪ローバーのスマートフォンコントローラーです。
+An iOS controller app for an expandable two-wheeled rover.
 
-スティック、ボタン、ジャイロの3つの操作方法と./mechatoroのモードによっては、VR形式の映像も楽しめます！
+Supports 3 input modes:
+🕹️ Stick | 🔘 Buttons | 🧭 Gyroscope
+And in some modes — enjoy VR-style camera streaming!
 
 <p align="center">
 <img src="tatahome.png" width="200">
@@ -55,57 +62,69 @@ X is the code for mechatoro's rober controller (iOS)
 <img src="tata3.png" width="200">
 </p>
 
-## [mechatoro](https://github.com/bambi01-95/mechatoro)
-### (python,C++)
-is the code that controls the expandable 2-wheeled rover!!!
+---
 
-開閉2輪ローバーの制御コードです。
+## [Mechatoro Rover Code](https://github.com/bambi01-95/mechatoro)
 
-pygameやDjangoを使用して、webやwindowを使用してモニターや制御を行えます。
+### (Python, C++)
+
+This repository includes the rover's software and firmware.
+Control and monitor the robot via web or GUI applications using `pygame`, `Django`, and more.
 
 <p align="center">
 <img src="mechatoroClose.jpeg" width="200">
 <img src="mechatoroOpen.jpeg" width="200">
 </p>
 
+---
 
-# [<img src="precaplogo.png" width="60">](https://github.com/bambi01-95/precap2022_22K13_Inspection) precap2022_22K13_Inspection
-### (Python[Tensor flow, Django, Open CV], SQLite, JS, HTML/CSS)
-is the code for the inspection machine (Web app). but not exist lol. It's secret.
+# [<img src="precaplogo.png" width="60">](https://github.com/bambi01-95/precap2022_22K13_Inspection) PreCap2022 Inspection System
 
-企業と共同で検品処理装置とそのウェブアプリケーションの開発を行いました！
+### (Python \[TensorFlow, Django, OpenCV], SQLite, JS, HTML/CSS)
 
-[プロジェクト記事](https://www2.deloitte.com/jp/ja/blog/group/2022/thesmartfactory-kyoto-news-01-capstone-project.html)
+This web-based inspection system was developed in collaboration with a partner company.
 
+> 🔒 The repository is private due to confidentiality.
+
+📰 [Project Article (Japanese)](https://www2.deloitte.com/jp/ja/blog/group/2022/thesmartfactory-kyoto-news-01-capstone-project.html)
 
 <p align="center">
 <img src="precapUI1.png" width="300">
 <img src="precapUI2.png" width="300">
 </p>
 
-# [<img src="dearlogo.jpeg" width="60">](https://github.com/bambi01-95/Dear)  Dear
+---
 
-is now in porgress... Please wait 2 month!!!
+# [<img src="dearlogo.jpeg" width="60">](https://github.com/bambi01-95/Dear) Dear
 
-it makes your uni. life more fun!!!
+### (In Development — ETA: 2 months)
 
-Below is the design for the planned 'Home page'.
+An SNS platform to enrich your university life.
+Stay tuned for more updates!
 
 <p align="center">
 <img src="homepage-design.png" width="500">
 </p>
 
-# <img src="dronelogo1.jpg" width="60"> droneshow_sw
-### (Unity: C# & Python)
-is now .... 
-## droneshow_cont(C/C++)
-is now ....
+---
 
+# <img src="dronelogo1.jpg" width="60"> Drone Show System
 
-### I Want to Develop: 
+### (Unity: C# & Python) + (C/C++)
 
-- SNS for corner-stone and cap-stone project. 
+A two-part drone show system:
 
-- VR implementation of TENJI block (integrated with a smart white cane) 
+* 🕹️ Unity-based visual simulator
+* ⚙️ Embedded control with C/C++
 
-- holographic display and its app
+(Currently in development)
+
+---
+
+## 🔭 I Want to Develop:
+
+* SNS for cornerstone & capstone projects
+* VR-integrated TENJI block experience for smart white canes
+* Interactive applications for holographic displays
+
+---
