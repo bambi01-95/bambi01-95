@@ -1,8 +1,3 @@
-以下が、あなたの内容を整理・添削した `README.md` の完成形です。
-
----
-
-````markdown
 ## Hi there 👋 I'm SHIKADA HIROTO
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bambi01-95)](https://github.com/anuraghazra/github-readme-stats)
